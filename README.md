@@ -1,4 +1,5 @@
 ### Hi there, I'am GulBahar who loves her job 👋
+/play story
 <!--
 **jafarovagulbahar/jafarovagulbahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
