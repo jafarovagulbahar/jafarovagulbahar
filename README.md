@@ -1,9 +1,11 @@
 ###                                                         Hi there, I'am GulBahar who loves her job 👋
 <img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" style="width=10px">
+
+
  -🔭 I’m currently working 
 - 🌱 I’m currently learning React.js and other JavaScript Frameworks
 - 📫 How to reach me: ceferovagulbahar4@gmail.com
-<!--
+
 **jafarovagulbahar/jafarovagulbahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,4 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--->
