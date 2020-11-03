@@ -4,7 +4,7 @@
 
 
 
- -🔭 I’m currently working 
+- 🔭 I’m currently working 
 - 🌱 I’m currently learning React.js and other JavaScript Frameworks
 - 📫 How to reach me: ceferovagulbahar4@gmail.com
 <!--
