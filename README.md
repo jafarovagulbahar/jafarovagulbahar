@@ -1,5 +1,5 @@
 ### Hi there, I'am GulBahar who loves her job 👋
-/play story
+<img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 <!--
 **jafarovagulbahar/jafarovagulbahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
