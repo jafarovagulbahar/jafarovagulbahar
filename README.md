@@ -1,6 +1,6 @@
 ###                                                         Hi there, I'am GulBahar who loves her job 👋
 <hr/>
-<img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" style="size=10px">
+<img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" width=100>
 
 
 - 🔭 I’m currently working 
