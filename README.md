@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+Visual Studio CodeHTML5CSS3SassJavaScriptReactGatsbyGraphQLNode.jsDenoSQLMySQLMongoDBGitGitHubTerminal
+
