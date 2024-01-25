@@ -4,9 +4,8 @@
 
 
 - 🔭 I’m currently working 
-- 🌱 I’m currently learning React.js and other JavaScript Frameworks
-- 📫 How to reach me: ceferovagulbahar4@gmail.com
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 📫 How to reach me: jafarovagulbahar1@gmail.com
+- 🥅 2024 Goals: Contribute more to Open Source projects
 <!--
 **jafarovagulbahar/jafarovagulbahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
